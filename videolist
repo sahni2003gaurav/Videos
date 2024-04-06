@@ -1,31 +1,31 @@
 {
-"results":[
-{
-  "Thumbnail" : "R.drawable.maxresdefault",
-  "ChannelLogo" : "R.drawable.maxresdefault",
-  "ChannelName" : "Star Wars",
-  "Time" : "8",
-  "VideoTitle" : "Star Wars - Trailer",
-  "VidUrl" : "",
-  "Views" : "89"
-},
-{
-  "Thumbnail" : "R.drawable.maxresdefault",
-  "ChannelLogo" : "R.drawable.maxresdefault",
-  "ChannelName" : "Star Wars",
-  "Time" : "8",
-  "VideoTitle" : "Star Wars - Trailer",
-  "VidUrl" : "",
-  "Views" : "89"
-},
-{
-  "Thumbnail" : "R.drawable.maxresdefault",
-  "ChannelLogo" : "R.drawable.maxresdefault",
-  "ChannelName" : "Star Wars",
-  "Time" : "8",
-  "VideoTitle" : "Star Wars - Trailer",
-  "VidUrl" : "",
-  "Views" : "89"
-}
-]
+    "results": [
+        {
+            "Thumbnail": "https://i3.ytimg.com/vi/erLk59H86ww/maxresdefault.jpg",
+            "ChannelLogo": "https://i3.ytimg.com/vi/erLk59H86ww/maxresdefault.jpg",
+            "ChannelName": "Star Wars",
+            "Time": "8",
+            "VideoTitle": "Star Wars - Trailer",
+            "VidUrl": "http://www.youtube.com/watch?v=erLk59H86ww",
+            "Views": "89"
+        },
+        {
+            "Thumbnail": "https://i3.ytimg.com/vi/RKpyT",
+            "ChannelLogo": "https://i3.ytimg.com/vi/RKpyT",
+            "ChannelName": "Wood Season",
+            "Time": "8",
+            "VideoTitle": "Floating Chess of Oak and Epoxy Resin with LED",
+            "VidUrl": "https://www.youtube.com/watch?v=RKpyTDoLgew",
+            "Views": "89"
+        },
+        {
+            "Thumbnail": "https://i3.ytimg.com/vi/PopHn9J416M/maxresdefault.jpg",
+            "ChannelLogo": "https://i3.ytimg.com/vi/PopHn9J416M/maxresdefault.jpg",
+            "ChannelName": "Jamie Tree",
+            "Time": "8",
+            "VideoTitle": "Everyone Is WRONG About The Bitcoin Halving...Michael Saylor 2024 Bitcoin Prediction",
+            "VidUrl": "https://www.youtube.com/watch?v=PopHn9J416M",
+            "Views": "89"
+        }
+    ]
 }
