@@ -4,28 +4,46 @@
             "Thumbnail": "https://i3.ytimg.com/vi/erLk59H86ww/maxresdefault.jpg",
             "ChannelLogo": "https://i3.ytimg.com/vi/erLk59H86ww/maxresdefault.jpg",
             "ChannelName": "Star Wars",
-            "Time": "8",
+            "Time": "4",
             "VideoTitle": "Star Wars - Trailer",
             "VidUrl": "https://sahni2003gaurav.github.io/Videos/star_wars.mp4",
-            "Views": "89"
+            "Views": "101"
         },
         {
             "Thumbnail": "https://i3.ytimg.com/vi/IgpkUIuR8O8/maxresdefault.jpg",
             "ChannelLogo": "https://i3.ytimg.com/vi/IgpkUIuR8O8/maxresdefault.jpg",
             "ChannelName": "Developers",
-            "Time": "8",
+            "Time": "2",
             "VideoTitle": "When the developers are bored, they add stuff like this..",
             "VidUrl": "https://sahni2003gaurav.github.io/Videos/developers.mp4",
-            "Views": "89"
+            "Views": "11"
         },
         {
             "Thumbnail": "http://i3.ytimg.com/vi/Y2M2Dgmm958/hqdefault.jpg",
             "ChannelLogo": "http://i3.ytimg.com/vi/Y2M2Dgmm958/hqdefault.jpg",
             "ChannelName": "Mark Manson",
-            "Time": "8",
+            "Time": "5",
             "VideoTitle": "The Uncomfortable Truth of Life",
             "VidUrl": "https://sahni2003gaurav.github.io/Videos/mark.mp4",
-            "Views": "89"
+            "Views": "8"
+        },
+        {
+            "Thumbnail": "http://i3.ytimg.com/vi/9ZMWM9a-v0A/hqdefault.jpg",
+            "ChannelLogo": "http://i3.ytimg.com/vi/9ZMWM9a-v0A/hqdefault.jpg",
+            "ChannelName": "Sin",
+            "Time": "3",
+            "VideoTitle": "This is why Battlefield 1 makes you hate war...",
+            "VidUrl": "https://sahni2003gaurav.github.io/Videos/battle.mp4",
+            "Views": "21"
+        },
+        {
+            "Thumbnail": "http://i3.ytimg.com/vi/rXRbkEWIAQs/hqdefault.jpg",
+            "ChannelLogo": "http://i3.ytimg.com/vi/rXRbkEWIAQs/hqdefault.jpg",
+            "ChannelName": "Business Quoted",
+            "Time": "17",
+            "VideoTitle": "BILL GATES - MAKE IT HAPPEN",
+            "VidUrl": "https://sahni2003gaurav.github.io/Videos/bill.mp4",
+            "Views": "101"
         }
     ]
 }
